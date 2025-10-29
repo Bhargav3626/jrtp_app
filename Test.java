@@ -3,4 +3,8 @@ Class Test{
      m1(){
         
      }
+
+     m2(){
+        int b=10;
+     }
 }
